@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include<conio.h>
+int main(){
+	int a,b=5;
+	printf("Enter the value of a: ");
+	scanf("%d", &a);
+	if(b!=a){
+		printf("a not equal to b");
+	}
+	else{
+		printf("value of a, b: ", a);
+	}
+	return 0;
+}
