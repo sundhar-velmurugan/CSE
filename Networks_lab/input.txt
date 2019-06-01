@@ -1,0 +1,5 @@
+The stub is an object, acts as a gateway for the client side. 
+All the outgoing requests are routed through it. 
+It resides at the client side and represents the remote object. 
+The skeleton is an object, acts as a gateway for the server side object. 
+All the incoming requests are routed through it. 
